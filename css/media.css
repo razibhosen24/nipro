@@ -1,0 +1,1117 @@
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+
+/*common start*/
+.cmn-btn{
+    display: block;
+    margin: 0 auto;
+   
+}
+
+.sctn-line{
+    height: 30px;
+}
+.cmn-hdng-h1{
+    margin: 20px 0 40px;
+    font-size: 25px;
+}
+/*common start*/
+
+
+/*header start*/
+
+.logo {
+    font-size: 25px;
+}
+
+.menu ul li a{
+    padding: 0 0 5px !important;
+}
+
+.menu ul li:last-child a{
+    padding-bottom: 0 !important;
+}
+
+.cus-search {
+    padding-left: 0px;
+}
+/*header end*/
+
+/*hero start*/
+.hero{
+    padding-bottom: 50px;
+}
+
+.h-slider{
+    padding: 40px 0;
+}
+
+.custom-indicators{
+    display: none;  
+}
+
+.crsl-singl h1{
+    font-size: 25px;
+    text-align: center;
+}
+
+.p-pdng{
+    margin: 30px 0;
+    padding-right: 0;
+    text-align: center;
+}
+
+/*next,pre start*/
+.cstm-cntrl-prev, .cstm-cntrl-next {
+    top: 354px;
+    bottom: 0;
+}
+
+.cstm-cntrl-prev{
+    left: -2px;
+}
+.cstm-cntrl-next{
+    left: 254px;
+}
+/*hero end*/
+
+/*welcome start*/
+
+.wlcme {
+    padding: 0 0 60px;
+}
+.wlcm-hdng-text {}
+
+.wlcm-hdng-text p{
+    font-size: 15px;
+    letter-spacing: 0;
+}
+
+/*welocme end*/
+
+/*about start*/
+
+.about{
+    padding: 0 0 60px;
+}
+
+.abt-text{
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.abt-text h1{
+    font-size: 25px;
+    margin: 25px 0;
+    text-align: center;
+
+
+}
+
+.fst-p, .scnd-p{
+    text-align: center;
+    padding: 0;
+    line-height: 25px;
+}
+
+.scnd-p{
+    margin: 30px 0;
+}
+
+.abt-btn{
+    text-align: center !important;
+}
+.cstm-abt-btn{}
+/*about end*/
+
+/*portfolio start*/
+
+.Portfolio{
+    padding: 0 0 60px;
+}
+
+.s-itm-icn i{
+    font-size: 50px;
+
+}
+
+.ovrly-h2{
+    margin: 10px 0 3px 20px;
+    font-size: 17px;
+}
+
+.ovrly-p{
+    margin: 0 0 10px 20px;
+    text-transform: capitalize;
+}
+
+.single-item:hover .itm-overlay-2{
+    height: 20%;
+
+}
+/*portfolio end*/
+
+/*speciality start*/
+.sp-hdng-h1 {
+    margin: 20px 0 0;
+}
+.specialty{
+    padding: 0 0 60px;
+}
+.sp-hdr{
+    display: block !important;
+    text-align: center;
+}
+
+.sp-bdy{
+    margin: 20px 0 20px;
+    text-align: center;
+}
+
+.sp-brdr-btm{
+    width: 100%;
+}
+
+/*speciality end*/
+
+/*team start*/
+.team{
+    padding: 0 0 60px;
+}
+/*team end*/
+
+/*pricing start*/
+
+.pricing{
+    padding: 0 0 60px;
+}
+
+.prc-tble h3 {
+    font-size: 30px;
+}
+
+.prc-tble ul li{
+    padding: 0 0 10px 30px;
+}
+
+.prc-btn {
+    margin: 10px 0 30px;
+}
+/*pricing end*/
+
+/*call to buying start*/
+
+.cll-to-actn{
+    margin-bottom: 60px;
+}
+
+.cll-t-text {
+    display: block;
+    margin: 0 auto;
+}
+
+.cll-t-text h1 {
+    padding-top: 5px;
+    font-size: 16px;
+    text-align: center !important;
+}
+
+.cll-t-btn {
+    float: none !important;
+    padding: 14px 0 10px;
+}
+
+.cstm-cll-t-btn {
+    padding: 5px 10px!important;
+    width: 131px;
+    height: 40px;
+}
+
+/*call to buying end*/
+
+/*testimonial start*/
+
+.testimnl {
+    padding: 0 0 60px;
+}
+
+.cmplctd-tstmnl{
+    padding: 20px 10px;
+}
+
+.tstmnl-text h1 {
+    margin-top: 10px;
+}
+
+.tstmnl-text h2{
+    margin: 10px 0;
+}
+
+.tstmnl-text p{
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.tstmnl-p1{
+    margin: 10px 0;
+    
+}
+/*testimonial end*/
+
+/*contact-form start*/
+.contact{
+    padding: 0 0 60px;
+}
+.cntct-hdng{
+    margin: -18px 10px 20px;
+}
+
+.cntct-hdng h1{
+    font-size: 25px;
+}
+
+.cstm-mssgs{
+    line-height: 60px;
+}
+
+/*contact-form end*/
+
+/*footer start*/
+
+.ftr-p p {
+    margin: 30px 0;
+    padding: 0px 20px;
+}
+.ftr-scl-icon ul li {
+    margin: 0 0;
+    padding-top: 2px;
+    width: 36px;
+    height: 36px;
+}
+
+.ftr-scl-icon ul li a{
+    font-size: 20px;
+}
+
+.footer-bottom{
+    margin-top: 60px;
+    padding: 20px 0;
+}
+
+.right-cntnt, .left-cntnt{
+    text-align: center;
+}
+.right-cntnt{
+    margin-top: 10px;
+}
+
+.right-cntnt ul li{
+    padding-right: 0;
+}
+/*footer end*/
+
+ }
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/*cmn sctn hdng start*/
+.cmn-heading{}
+.sctn-line{
+    height: 30px;
+}
+.cmn-hdng-h1{
+    margin: 20px 0 40px;
+}
+/*cmn sctn hdng end*/
+
+/*header start*/
+
+.menu ul li a{
+    padding: 0 0 10px !important;
+}
+
+.menu ul li:last-child a{
+    padding-bottom: 0 !important;
+}
+
+.cus-search {
+    padding-left: 0px;
+}
+/*header end*/
+
+/*hero start*/
+
+.h-slider{
+    padding: 60px 0;
+}
+
+.custom-indicators{
+    right: 0;
+    bottom: -65px;
+    left: -390px;
+
+   
+}
+
+.crsl-singl h1{
+    font-size: 45px;
+}
+
+.p-pdng{
+    margin: 40px 0;
+    padding-right: 30px;
+}
+
+/*next,pre start*/
+.cstm-cntrl-prev, .cstm-cntrl-next {
+    top: 325px;
+    bottom: 0;
+}
+
+.cstm-cntrl-prev{
+    left: -18px;
+}
+.cstm-cntrl-next{
+    left: 68px;
+}
+/*hero end*/
+
+/*welcome start*/
+.wlcme {
+    padding: 0 0 60px;
+}
+
+.wlcm-hdng-text p{
+    letter-spacing: 0;
+}
+
+.wlcm-icon {
+    margin: -22px 88px 0;
+}
+
+.wlcm-bdy-text p {
+    padding: 0 10px;
+}
+
+/*welocme end*/
+
+/*about start*/
+
+.about{
+    padding: 0 0 60px;
+}
+
+.abt-text{
+    margin-left: 20px;
+}
+
+.abt-text h1{
+    margin: 30px 0;
+    text-align: center;
+
+
+}
+
+.fst-p, .scnd-p{
+    padding: 0;
+    line-height: 25px;
+}
+
+.scnd-p{
+    margin: 30px 0;
+}
+
+.abt-btn{
+    text-align: center;
+}
+/*about end*/
+
+/*portfolio start*/
+
+.Portfolio{
+    padding: 0 0 60px;
+}
+
+.s-itm-icn i{
+    font-size: 50px;
+
+}
+
+.ovrly-h2{
+    margin: 10px 0 3px 20px;
+    font-size: 17px;
+}
+
+.ovrly-p{
+    margin: 0 0 10px 20px;
+    text-transform: capitalize;
+}
+
+.single-item:hover .itm-overlay-2{
+    height: 25%;
+
+}
+/*portfolio end*/
+
+/*speciality start*/
+
+.specialty{
+    padding: 0 0 60px;
+}
+
+.sp-brdr-btm{
+    width: 250px;
+}
+
+/*speciality end*/
+
+/*team start*/
+.team{
+    padding: 0 0 60px;
+}
+/*team end*/
+
+/*pricing start*/
+.pricing{
+    padding: 0 0 60px;
+}
+
+.prc-tble h3 {
+    font-size: 30px;
+}
+/*pricing end*/
+
+/*call to buying start*/
+
+.cll-to-actn{
+    margin-bottom: 60px;
+}
+
+.cll-t-text h1 {
+    font-size: 16px;
+}
+.cstm-cll-t-btn {
+    padding: 5px 10px!important;
+    width: 131px;
+    height: 40px;
+}
+
+/*call to buying end*/
+
+/*testimonial start*/
+
+.testimnl {
+    padding: 0 0 60px;
+}
+
+.tstmnl-text h1 {
+    margin-top: 10px;
+}
+
+.tstmnl-text h2{
+    margin: 10px 0;
+}
+
+.tstmnl-text p{
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.tstmnl-p1{
+    margin: 10px 0;
+    
+}
+
+.cstm-tstmnl-crsl {
+    bottom: 450px;
+    left: 500px;
+}
+
+.cstm-carousel-control-prev {
+    left: 444px;
+    bottom: 710px;
+}
+
+.cstm-carousel-control-next {
+    right: -5px;
+    top: 710px;
+}
+/*testimonial end*/
+
+/*contact-form start*/
+.contact{
+    padding: 0 0 60px;
+}
+
+.cntct-hdng{
+    margin: -20px 65px 20px;
+}
+
+.cstm-mssgs{
+    line-height: 60px;
+}
+
+/*contact-form end*/
+
+/*footer start*/
+
+.footer-bottom{
+    margin-top: 60px;
+    padding: 20px 0;
+}
+
+.right-cntnt, .left-cntnt{
+    text-align: center;
+}
+.right-cntnt{
+    margin-top: 10px;
+}
+/*footer start*/
+
+
+        
+
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+/*header start*/
+
+.menu ul li a{
+    padding: 0 0 10px !important;
+}
+
+.menu ul li:last-child a{
+    padding-bottom: 0 !important;
+}
+
+.cus-search {
+    padding-left: 0px;
+}
+/*header end*/
+
+/*hero start*/
+
+.h-slider{
+    padding: 80px 0;
+}
+
+.custom-indicators{
+    right: 0;
+    bottom: -80px;
+    left: -570px;
+
+   
+}
+
+.p-pdng{
+    margin: 40px 0;
+    padding-right: 50px;
+}
+
+/*next,pre start*/
+.cstm-cntrl-prev, .cstm-cntrl-next {
+    top: 335px;
+    bottom: 0;
+}
+
+.cstm-cntrl-prev{
+    left: -30px;
+}
+.cstm-cntrl-next{
+    left: 50px;
+}
+/*hero end*/
+
+/*wlcm start*/
+.wlcme {
+    padding: 0 0 80px;
+}
+.wlcm-hdng-text p{
+    letter-spacing: 0;
+}
+
+.wlcm-bdy-text p {
+    padding: 0 15px;
+}
+
+/*wlcm end*/
+
+/*about start*/
+
+.about{
+    padding: 0 0 80px;
+}
+
+.abt-text{
+    margin-left: 20px;
+}
+
+.abt-text h1{
+    margin: 30px 0;
+    text-align: center;
+
+
+}
+
+.fst-p, .scnd-p{
+    padding: 0;
+    line-height: 25px;
+}
+
+.scnd-p{
+    margin: 30px 0;
+}
+
+.abt-btn{
+    text-align: center;
+}
+/*about end*/
+
+/*portfolio start*/
+
+.specialty{
+    padding: 0 0 80px;
+}
+
+.Portfolio{
+    padding: 0 0 80px;
+}
+
+.ovrly-h2{
+    margin: 20px 0 10px 30px;
+}
+
+
+.single-item:hover .itm-overlay-2{
+    height: 25%;
+
+}
+/*portfolio end*/
+
+/*speciality start*/
+
+.sp-brdr-btm{
+    width: 297px;
+}
+
+/*speciality end*/
+
+/*team start*/
+
+.team{
+    padding: 0 0 80px;
+}
+
+.tm-scl-ovrly{
+    top: 25%;
+}
+/*team end*/
+
+/*pricing start*/
+.pricing{
+    padding: 0 0 80px;
+}
+
+.cstm-prc-btn {
+    padding: 10px 20px!important;
+    width: 260px;
+    height: 50px;
+}
+/*pricing end*/
+
+/*call to buying start*/
+
+.cll-to-actn{
+    margin-bottom: 80px;
+}
+
+/*call to buying end*/
+
+/*testimonial start*/
+
+.testimnl {
+    padding: 0 0 80px;
+}
+
+.tstmnl-text h1 {
+    margin-top: 10px;
+}
+
+.tstmnl-text h2{
+    margin: 10px 0;
+}
+
+.tstmnl-text p{
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.tstmnl-p1{
+    margin: 10px 0;
+    
+}
+
+.cstm-tstmnl-crsl {
+    bottom: 450px;
+    left: 665px;
+}
+
+.cstm-carousel-control-prev {
+    left: 597px;
+    bottom: 795px;
+}
+
+.cstm-carousel-control-next {
+    right: -5px;
+    top: 824px;
+}
+/*testimonial end*/
+
+/*contact-form start*/ 
+.contact{
+    padding: 0 0 80px;
+}
+
+.cntct-hdng{
+    margin: -21px 125px 20px;
+}
+
+.cstm-mssgs{
+    line-height: 80px;
+}
+
+/*contact-form end*/
+
+/*footer start*/
+.ftr-p p {
+    padding: 0px 55px;
+}
+
+.footer-bottom{
+    margin-top: 80px;
+}
+
+.right-cntnt, .left-cntnt{
+    text-align: center;
+}
+.right-cntnt{
+    margin-top: 15px;
+}
+/*footer end*/
+ 
+
+
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/*cmn start*/
+
+/*cmn end*/
+
+/*hero start*/
+.custom-indicators{
+    right: 0;
+    bottom: -155px;
+    left: -815px;
+
+   
+}
+
+.p-pdng{
+    padding-right: 271px;
+}
+
+/*next,pre start*/
+.cstm-cntrl-prev, .cstm-cntrl-next {
+    top: 430px;
+    bottom: 0;
+}
+
+.cstm-cntrl-prev{
+    left: -50px;
+}
+.cstm-cntrl-next{
+    left: 30px;
+}
+/*hero end*/
+
+/*wlcm start*/
+.wlcm-hdng-text p{
+    letter-spacing: 0;
+}
+
+.wlcm-icon {
+    margin: -22px 72px 0;
+}
+
+.wlcm-bdy-text h2 {
+    margin: 25px 0 15px;
+}
+
+.wlcm-bdy-text p{
+    margin: 15px 9px 25px;
+    padding: 0;
+}
+
+.cstm-lnk-btn {
+    margin-bottom: 15px;
+}
+
+/*wlcm end*/
+
+/*about start*/
+
+.abt-text{
+    margin-left: 20px;
+}
+
+.abt-text h1{
+    margin: 30px 0 50px;
+    text-align: center;
+
+
+}
+
+.fst-p, .scnd-p{
+    padding: 0 ;
+    text-align: center;
+    line-height: 25px;
+}
+
+.scnd-p{
+    margin: 30px 0;
+}
+
+.abt-btn{
+    text-align: center;
+}
+/*about end*/
+
+/*portfolio start*/
+
+
+.single-item:hover .itm-overlay-2{
+    height: 27%;
+
+}
+/*portfolio end*/
+
+/*speciality start*/
+
+.sp-brdr-btm{
+    width: 295px;
+}
+
+/*speciality end*/
+
+/*team start*/
+.tm-scl-ovrly{
+    top: 19%;
+}
+/*team end*/
+
+/*pricing start*/
+
+.cstm-prc-btn {
+    padding: 10px 20px!important;
+    width: 160px;
+    height: 50px;
+}
+/*pricing end*/
+
+/*testimonial start*/
+
+.cmplctd-tstmnl {
+    padding: 20px 10px;
+}
+.tstmnl-text h2{
+    margin: 10px 0;
+}
+
+.tstmnl-text p{
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.tstmnl-p1{
+    margin: 10px 0;
+    
+}
+
+.cstm-tstmnl-crsl {
+    bottom: 105px;
+    left: 927px;
+}
+
+.cstm-carousel-control-prev {
+    left: 839px;
+    bottom: 187px;
+}
+
+.cstm-carousel-control-next {
+    right: -44px;
+    top: 185px;
+}
+/*testimonial end*/
+
+/*contact-form start*/
+.cntct-hdng{
+    margin: -23px 206px 20px;
+}
+
+/*contact-form end*/
+
+/*footer start*/
+.ftr-p p {
+    padding: 0px 55px;
+}
+/*footer end*/
+
+
+
+ }
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+/*hero start*/
+.custom-indicators{
+    right: 0;
+    bottom: -155px;
+    left: -1000px;
+
+   
+}
+
+.p-pdng{
+    padding-right: 460px;
+}
+
+/*next,pre start*/
+.cstm-cntrl-prev, .cstm-cntrl-next {
+    top: 430px;
+    bottom: 0;
+}
+
+.cstm-cntrl-prev{
+    left: -65px;
+}
+.cstm-cntrl-next{
+    left: 16px;
+}
+/*hero end*/
+
+/*wlcm start*/
+.wlcm-hdng-text p{
+    letter-spacing: 0;
+}
+
+.wlcm-icon {
+    margin: -22px 93px 0;
+}
+
+.wlcm-bdy-text p{
+    padding: 0 19px;
+}
+
+/*wlcm end*/
+
+/*about start*/
+
+.abt-text h1{
+    margin-bottom: 30px;
+
+
+}
+
+.fst-p, .scnd-p{
+    padding-right: 40px;
+    line-height: 25px;
+}
+
+.scnd-p{
+    margin: 25px 0;
+}
+/*about end*/
+
+/*portfolio start*/
+
+
+.single-item:hover .itm-overlay-2{
+    height: 23%;
+
+}
+/*portfolio end*/
+
+/*testimonial start*/
+.tstmnl-text h2{
+    margin: 12px 0;
+    font-size: 18px;
+}
+
+.tstmnl-text p{
+    line-height: 26px;
+}
+
+.tstmnl-p1{
+    margin: 20px 0;
+}
+
+.cstm-tstmnl-crsl {
+    bottom: 140px;
+    left: 1100px;
+}
+
+.cstm-carousel-control-prev {
+    left: 997px;
+    bottom: 229px;
+}
+
+.cstm-carousel-control-next {
+    right: -50px;
+    top: 230px;
+}
+/*testimonial end*/
+
+/*contact-form start*/
+.cntct-hdng{
+    margin: -23px 260px 20px;
+}
+
+/*contact-form end*/
+
+/*footer start*/
+.ftr-p p {
+    padding: 0px 56px;
+}
+/*footer end*/
+
+
+
+
+
+
+ }
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+
+/*pricing start*/
+.cstm-prc-btn {
+    padding: 15px 20px!important;
+    width: 240px;
+    height: 60px;
+}
+/*pricing end*/
+
+
+
+ }
